@@ -12,7 +12,7 @@ This program represents a (3X3) Rubiks Cube using 3 different models and incorpo
 Clone the project
 
 ```bash
-  git clone https://github.com/aryangoenka26/RubiksCubeSolver
+  git clone https://github.com/Bharatkabra1/RubiksCubeSolver
 ```
 
 Start the server
