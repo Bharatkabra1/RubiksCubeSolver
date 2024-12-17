@@ -1,5 +1,5 @@
 //
-// Created by Aryan Goenka
+// Created by Bharat Kabra
 //
 
 #ifndef RUBIKSCUBESOLVER_GENERICRUBIKSCUBE_H
