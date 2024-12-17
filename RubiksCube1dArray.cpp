@@ -1,5 +1,5 @@
 //
-// Created by Aryan Goenka
+// Created by Bharat Kabra
 //
 #include "GenericRubiksCube.h"
 #include<string>
